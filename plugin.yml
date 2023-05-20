@@ -1,0 +1,6 @@
+name: BingAI
+main: TaylorR\BingAI\Loader
+version: 1.0.0
+api: 4.0.0
+author: TaylorR
+description: A plugin that answers all user questions using BingAI
